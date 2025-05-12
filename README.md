@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 <p align="center">
   ✉️ <b>Email:</b> ah212@rice.edu &nbsp; • &nbsp;
-  💼 <a href="www.linkedin.com/in/alanjy-huang">LinkedIn</a> 
+  💼 <a href="https://www.linkedin.com/in/alanjy-huang">LinkedIn</a> 
 </p>
 
 ---
