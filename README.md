@@ -1,42 +1,69 @@
-# 👋 Hi, I'm Alan Huang
+<h1 align="center">👋 Hi, I'm Alan Huang</h1>
 
+<p align="center">
 🎓 Master of Electrical and Computer Engineering @ Rice University  
+<br>
 🧠 Passionate about Computer Vision, Machine Learning, and Autonomous Systems  
-🔍 Currently working on: Inverse Imaging with INR | Kolmogorov–Arnold Networks (KAN)  
-📍 Based in Houston, TX / Hsinchu, Taiwan
+<br>
+🔍 Currently: Inverse Imaging with INR | Kolmogorov–Arnold Networks (KAN)  
+<br>
+📍 Based in Houston, TX / Hsinchu, Taiwan  
+</p>
 
 ---
 
 ## 🔭 Interests
-- Implicit Neural Representations (INR)
-- Inverse Imaging (Denoising, Super-Resolution, CT Reconstruction)
-- Computer Vision Challenges and Applications
-- Efficient Deep Learning (e.g., Kolmogorov–Arnold Networks)
-- Applied Machine Learning for Autonomous Driving
-- Generative Image Modeling (e.g., VAE, GAN, Diffusion)
+<table>
+  <tr>
+    <td>📌 Implicit Neural Representations (INR)</td>
+    <td>🩻 Inverse Imaging (Denoising, Super-Resolution, CT)</td>
+  </tr>
+  <tr>
+    <td>🧠 Computer Vision Problems</td>
+    <td>⚙️ Efficient Deep Learning (KAN)</td>
+  </tr>
+  <tr>
+    <td>🚗 ML for Autonomous Driving</td>
+    <td>🖼️ Generative Image Modeling (VAE, GAN, Diffusion)</td>
+  </tr>
+</table>
 
 ---
 
-## 🔧 Technologies & Tools
-- **Languages**: Python, C++, MATLAB, SQL  
-- **Frameworks**: PyTorch, TensorFlow, OpenCV, ROS  
-- **Dev Tools**: Docker, Git, VSCode, Linux, Ansible
+## 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
-- **STRAINER++** – Extension of STRAINER for improved performance in inverse imaging tasks  
-- **BirdNet** – Drone-based bird species detection and segmentation using Mask R-CNN  
-- **KAN-Enhanced INR** – Investigating KAN-based models to replace MLPs in implicit image representations
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **STRAINER++** | Extension of STRAINER for improved inverse imaging (denoising, super-resolution, CT) |
+| **BirdNet** | Drone-based bird species detection using Mask R-CNN |
+| **KAN-Enhanced INR** | Exploring Kolmogorov–Arnold Networks to replace MLPs in INR frameworks |
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alan-huang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-huang&layout=compact)
+## 📫 Let's Connect
+<p align="center">
+  ✉️ <b>Email:</b> ah212@rice.edu &nbsp; • &nbsp;
+  💼 <a href="www.linkedin.com/in/alanjy-huang">LinkedIn</a> 
+</p>
 
 ---
-
-## 📫 Contact Me
-- ✉️ alan.huang@rice.edu  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace this with your actual LinkedIn URL)*  
