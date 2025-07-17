@@ -54,9 +54,10 @@
 
 | Project | Description |
 |--------|-------------|
-| **STRAINER++** | Extension of STRAINER for improved inverse imaging (denoising, super-resolution, CT) |
-| **BirdNet** | Drone-based bird species detection using Mask R-CNN |
-| **KAN-Enhanced INR** | Exploring Kolmogorov–Arnold Networks to replace MLPs in INR frameworks |
+| **STRAINER++** | Research on extening STRAINER for improved inverse imaging (denoising, super-resolution, CT) |
+| ** CLIP Cross-Modal Image Pairing ** | Semantic understanding and scene separation using vision-language models (CLIP) |
+| ** Planning Under Uncertainty ** | Implemented a Stochastic Motion Roadmap (SMR) planner in C++ to enable robust robot motion planning under
+actuation uncertainty, mitigating collision risks. |
 
 ---
 
