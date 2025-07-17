@@ -55,9 +55,8 @@
 | Project | Description |
 |--------|-------------|
 | **STRAINER++** | Research on extening STRAINER for improved inverse imaging (denoising, super-resolution, CT) |
-| ** CLIP Cross-Modal Image Pairing ** | Semantic understanding and scene separation using vision-language models (CLIP) |
-| ** Planning Under Uncertainty ** | Implemented a Stochastic Motion Roadmap (SMR) planner in C++ to enable robust robot motion planning under
-actuation uncertainty, mitigating collision risks. |
+| **CLIP Cross-Modal Image Pairing** | Semantic understanding and scene separation using vision-language models (CLIP) |
+| **Planning Under Uncertainty** | Implemented a Stochastic Motion Roadmap (SMR) planner in under  uncertainty. |
 
 ---
 
